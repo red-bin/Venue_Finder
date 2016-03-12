@@ -5,12 +5,6 @@ import csv
 import psycopg2
 import ppygis
 from geopandas import GeoDataFrame
-#API v2.0
-#Consumer Key	k3A5nN94Y8JHFkZfdifPcQ
-#Consumer Secret	ctDkexrCh3wRAH7JL0BAwTy8woU
-#Token	gs6lscBxJUYqcgV7h12m-UsYEHpxicNp
-#Token Secret	-2JsHYUQdHPoQ25PBPtFQ5rw-wI
-#Generate new API v2.0 token/secret
 
 
 # In[99]:
