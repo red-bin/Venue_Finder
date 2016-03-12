@@ -19,10 +19,7 @@ from yelp.client import Client
 from yelp.oauth1_authenticator import Oauth1Authenticator
 
 auth = Oauth1Authenticator(
-    consumer_key='k3A5nN94Y8JHFkZfdifPcQ',
-    consumer_secret='ctDkexrCh3wRAH7JL0BAwTy8woU',
-    token='gs6lscBxJUYqcgV7h12m-UsYEHpxicNp',
-    token_secret='-2JsHYUQdHPoQ25PBPtFQ5rw-wI'
+
 )
 
 cities=['Aurora','Batavia','Chicago','Darien','Elmhurst','Naperville',
